@@ -1,0 +1,33 @@
+body{
+    font-family: 'Barlow', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.color{
+    color: orangered;
+}
+.change{
+    color: orangered;
+}
+.Change{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 120%;
+}
+.link-button{
+    text-decoration: none;
+   background-image: linear-gradient(orange,tomato);
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: palegoldenrod;
+    font-weight: 700;
+}
